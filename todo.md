@@ -1,7 +1,3 @@
-- [ ] Finish debugging
-- [ ] Finalize everything
-- [ ] Make next.js compatible
-- [ ] Make auth system so that users can only make feedback when logged in
-- [ ] Rate limiting
-- [ ] A certain list of user ids can make changelogs
-- [ ] Finish setup with https://docs.feedbase.app/api-reference/introduction
+- [ ] Fix bun run build
+- [ ] Fix bun run dev's errors when in website
+- [ ] Convert project to Next.js
