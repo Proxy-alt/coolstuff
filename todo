@@ -1,3 +1,7 @@
 [ ] Finish debugging
 [ ] Finalize everything
 [ ] Make next.js compatible
+[ ] Make auth system so that users can only make feedback when logged in
+[ ] Rate limiting
+[ ] A certain list of user ids can make changelogs
+[ ] Finish setup with https://docs.feedbase.app/api-reference/introduction
